@@ -1,0 +1,11 @@
+# IDE
+.vscode/
+.idea/
+
+# Others
+.DS_Store
+
+# Build / Out
+build/
+output/
+*.dSYM
