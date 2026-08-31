@@ -9,3 +9,6 @@
 build/
 output/
 *.dSYM
+*.ps1
+*.exe
+vulnShellCode
