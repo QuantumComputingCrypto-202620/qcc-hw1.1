@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+// declaration of gets to avoid compiler issues
+extern char *gets(char *); 
+
 #define BUFSIZE 32
 
 #define FLAG_BUFFER 128

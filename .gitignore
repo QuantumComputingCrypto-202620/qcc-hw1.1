@@ -4,10 +4,14 @@
 
 # Others
 .DS_Store
+.python-version
+.venv/
 
 # Build / Out
 build/
 output/
+dist/
+qcc_hw1_1.egg-info
 *.dSYM
 *.ps1
 *.exe
